@@ -20,9 +20,6 @@
 
 <details>
   <summary>:zap: Statistiques GitHub</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShAd-x)](https://github.com/anuraghazra/github-readme-stats)
-
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShAd-x&show_icons=true)  
-
   ![Profile views](https://gpvc.arturio.dev/ShAd-x)  
 </details>
