@@ -7,7 +7,7 @@
 
 - 📫 Pour m'envoyer un mail : **alexis.tatarkovic@gmail.com**
 
-- 🥅 Mes buts en 2021: Ouvrir **KorusMC**, réussir mes études, trouver une entreprise pour mon stage.
+- 🥅 Mes objectifs en 2021-2022: Ouvrir **KorusMC**, réussir mes études, trouver une entreprise pour mon stage.
 
 ## 📊 Mes statistiques GitHub
 
