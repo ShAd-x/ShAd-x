@@ -1,14 +1,14 @@
-<h1 align="center">Salut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">Etudiant en informatique (DUT) en deuxième année</h3>
+<h1 align="center">Salut  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">Étudiant en informatique (DUT) • deuxième année</h3>
 
 ## 🙋‍♂️ À propos de moi
 
 - 🔭 Je travaille actuellement sur **[KorusMC](https://korusmc.fr/)**.
 
-- 📫 Pour m'envoyer un mail : **alexis.tatarkovic@gmail.com**
-
 - 🥅 Mes objectifs en 2021-2022: Ouvrir **KorusMC**, réussir mes études, trouver une entreprise pour mon stage.
 
+- 📫 Pour m'envoyer un mail : **alexis.tatarkovic@gmail.com**
+- 
 ## 📊 Mes statistiques GitHub
 
 <br/>
