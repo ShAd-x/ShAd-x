@@ -16,10 +16,7 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Statistiques GitHub</summary>
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShAd-x&show_icons=true)  
-  
-  ![Profile views](https://gpvc.arturio.dev/ShAd-x)  
-</details>
+:zap: Statistiques GitHub</summary>
+<br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShAd-x&show_icons=true)  
+![Profile views](https://gpvc.arturio.dev/ShAd-x)
