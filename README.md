@@ -21,8 +21,8 @@
 ## Liens utiles
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/alexis-tatarkovic-8a16031a1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ShAd_x_x"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a target="_blank" href = "https://www.linkedin.com/in/alexis-tatarkovic-8a16031a1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a target="_blank" href = "https://twitter.com/ShAd_x_x"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
