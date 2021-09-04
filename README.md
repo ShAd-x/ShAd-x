@@ -25,5 +25,5 @@
 </p>
 
 ## ❤ Activité de mon compte GitHub
-<a href="https://github.com/ShAd-x?tab=followers"><img src="https://img.shields.io/github/followers/ShAd-x?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ShAd-x?tab=followers"><img src="https://img.shields.io/github/followers/ShAd-x?label=Followers&amp;style=for-the-badge" alt="GitHub Badge"></a>
 <a href="https://komarev.com/ghpvc/?username=ShAd-x"><img src="https://komarev.com/ghpvc/?username=ShAd-x"></a>
