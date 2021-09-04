@@ -25,6 +25,5 @@
 </p>
 
 ## ❤ Activité de mon compte GitHub
-<a href="https://github.com/MAXOUXAX?tab=followers"><img src="https://camo.githubusercontent.com/e505353b67a459293f82d492483239acd8edb28d4c3c8ff50b1167ba69a6383c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f7765 72732f4d41584f555841583f6c6162656c3d466f6c6c6f77657273267374796c653d666f722d7468652d6261646765" alt="GitHub Badge" data-canonical-src="https://img.shields.io/github/followers/ShAd-x?label=Followers&amp;style=for-the-badge" style="max-width: 100%;">
-</a>
+<a href="https://github.com/ShAd-x?tab=followers"><img src="https://img.shields.io/github/followers/ShAd-x?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://komarev.com/ghpvc/?username=ShAd-x"><img src="https://komarev.com/ghpvc/?username=ShAd-x"></a>
