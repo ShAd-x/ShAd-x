@@ -3,11 +3,11 @@
 
 ## 🙋‍♂️ À propos de moi
 
-- 🔭 Je travaille actuellement sur **[KorusMC](https://korusmc.fr/)**
+- 🔭 Je travaille actuellement sur **[KorusMC](https://korusmc.fr/)**.
 
 - 📫 Pour m'envoyer un mail : **alexis.tatarkovic@gmail.com**
 
-- 🥅 Mes buts en 2021: Ouvrir **KorusMC**
+- 🥅 Mes buts en 2021: Ouvrir **KorusMC**, réussir mes études, trouver une entreprise pour mon stage.
 
 ## 📊 Mes statistiques GitHub
 
