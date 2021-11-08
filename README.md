@@ -5,7 +5,7 @@
 
 - 🔭 Je travaille actuellement sur **[KorusMC](https://korusmc.fr/)**.
 
-- 🥅 Mes objectifs en 2021-2022: Ouvrir **KorusMC**, réussir mes études, trouver une entreprise pour mon stage.
+- 🥅 Mes objectifs en 2021-2022: Réussir mes études, trouver une entreprise pour mon stage.
 
 - 📫 Pour m'envoyer un mail : **alexis.tatarkovic@gmail.com**
 
