@@ -1,6 +1,11 @@
 <h1 align="center">Salut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Étudiant en informatique (DUT) • Deuxième année</h3>
 
+## 🙋‍♂️ À propos de moi
+
+- 🔭 Je travaille actuellement sur **[KorusMC](https://korusmc.fr/)**.
+
+- 📫 Pour me contacter : **[C'est ici](https://www.shadx.me/#contact)**.
 
 ## 📊 Mes statistiques GitHub
 
