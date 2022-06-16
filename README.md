@@ -1,9 +1,9 @@
-<h1 align="center">Salut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Salut</h1>
 <h3 align="center">Étudiant en informatique (DUT) • Deuxième année</h3>
 
 ## 🙋‍♂️ À propos de moi
 
-- Alexis TATARKOVIC, j'ai 19 ans.
+- Alexis TATARKOVIC, j'ai 20 ans.
 
 - 📫 Pour me contacter : **[C'est ici](https://www.shadx.me/#contact)**.
 
