@@ -1,5 +1,5 @@
 <h1 align="center">Salut</h1>
-<h3 align="center">Étudiant en informatique (DUT) • Deuxième année</h3>
+<h3 align="center">Étudiant en informatique</h3>
 
 ## 🙋‍♂️ À propos de moi
 
